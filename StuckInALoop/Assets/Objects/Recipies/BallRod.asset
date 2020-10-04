@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b77e1922fa03a214e8f45e25e3915476, type: 3}
+  m_Name: BallRod
+  m_EditorClassIdentifier: 
+  recipeName: Mechanical Staff
+  icon: {fileID: 21300000, guid: 61febb9b135e672439d2e9558fd4a62a, type: 3}
+  product: {fileID: 11400000, guid: cbfb8100f4b08a44c830a62d47455e9b, type: 2}
+  ingredients:
+  - {fileID: 11400000, guid: a53a2cd6e2319164b9fd3b8fcca0b6eb, type: 2}
+  - {fileID: 11400000, guid: 990a28fe6987d6445a63ae7e1dc4bd8a, type: 2}
+  productGO: {fileID: 859799039979898598, guid: 619dd849687c75d44bdbddccc0236824,
+    type: 3}
+  timeToMake: 5

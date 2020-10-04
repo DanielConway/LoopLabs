@@ -1,0 +1,16 @@
+{
+"companyName": "DanielConway",
+"productName": "LoopLabs",
+"productVersion": "0.1",
+"dataUrl": "LoopLabsV01.data.unityweb",
+"wasmCodeUrl": "LoopLabsV01.wasm.code.unityweb",
+"wasmFrameworkUrl": "LoopLabsV01.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#1A1A1A",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.3f1"
+}
